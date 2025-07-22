@@ -48,6 +48,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=umarzulfiqar&show_icons=true&theme=radical" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-20%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+
 ---
 
 ## 📫 Connect With Me
