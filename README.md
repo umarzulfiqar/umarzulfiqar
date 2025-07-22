@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  🎓 Computer Science Student at <b>Lahore Garrison University</b>  
-  <br/>
-  🚀 Building backend systems, deploying scalable applications, and exploring ML & AI  
+  🎓 Computer Science Student at <b>Lahore Garrison University</b><br/>
+  🚀 Building backend systems, deploying scalable applications, and exploring ML & AI
 </p>
 
 ---
@@ -21,8 +20,8 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-20%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 ### 🔧 Tools & Frameworks
@@ -37,9 +36,9 @@
 
 ## 🚀 Interests
 
-- 🔙 Backend Development
-- ⚙️ DevOps & Infrastructure
-- 🤖 AI & Machine Learning
+- 🔙 Backend Development  
+- ⚙️ DevOps & Infrastructure  
+- 🤖 AI & Machine Learning  
 
 ---
 
@@ -47,7 +46,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umarzulfiqar&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarzulfiqar&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -68,5 +66,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umarzulfiqar&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-
----
