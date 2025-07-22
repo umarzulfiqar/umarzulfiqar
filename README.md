@@ -1,62 +1,72 @@
-## Hi there 👋
-# 💻 Muhammad's GitHub Profile
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ebd7c3.gif" width="100%" alt="Coding Dev Environment Banner"/>
+</p>
 
-Hi there! 👋  
-I'm Umar Zulfiqar, a passionate Computer Science student at **Lahore Garrison University (LGU)**, aspiring to become an **AI Engineer**. I love solving real-world problems with code and turning ideas into smart solutions using **Machine Learning** and **Data Science**.
+<h1 align="center">Hi 👋, I'm Umar Zulfiqar</h1>
+
+<p align="center">
+  <b>Backend Developer | DevOps Enthusiast | AI Explorer</b>  
+</p>
+
+<p align="center">
+  🎓 Computer Science Student at <b>Lahore Garrison University</b>  
+  <br/>
+  🚀 Building backend systems, deploying scalable applications, and exploring ML & AI  
+</p>
 
 ---
 
-## 🧠 About Me
+## 🛠️ Tech Stack
 
-- 🎓 CS Student | LGU  
-- 🧠 Exploring Machine Learning, AI, and Deep Learning  
-- 💡 Strong in **C++**, **Python**, **OOP**, **DSA**, and **DBMS**  
-- 🧩 Passionate about **Problem Solving** and **Leadership**  
-- 🎯 Currently seeking **internships**, **research roles**, and **collaborations**
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+### 🔧 Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 Interests
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 🔙 Backend Development
+- ⚙️ DevOps & Infrastructure
+- 🤖 AI & Machine Learning
 
 ---
 
 ## 📈 GitHub Stats
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umarzulfiqar&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarzulfiqar&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p>
+  <a href="https://www.linkedin.com/in/umarzulfiqarpk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:umarzulfiqar24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-> *“Code is not just what a computer executes — it's how we solve problems and build the future.”*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umarzulfiqar&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
-
-
-<!--
-**umarzulfiqar/umarzulfiqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
