@@ -44,15 +44,21 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarzulfiqar&show_icons=true&theme=radical" height="180"/>
-</p>
+## ⚙️ &nbsp;GitHub Analytics
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-20%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-10%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<a href="https://github.com/uzairriaz">
+  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uzairriaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <br>
+  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uzairriaz&layout=compact&theme=algolia"/> 
+    <br>
+     <img height="240em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=uzairriaz&theme=algolia"/> 
+</a>
 </p>
+
+<br>
 
 
 ---
