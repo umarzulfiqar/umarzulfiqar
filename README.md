@@ -42,23 +42,20 @@
 
 ---
 
-## 📈 GitHub Stats
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br>
 
 <p align="center">
-<a href="https://github.com/uzairriaz">
-  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uzairriaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/umarzulfiqar">
+  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=umarzulfiqar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <br>
-  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uzairriaz&layout=compact&theme=algolia"/> 
+  <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umarzulfiqar&layout=compact&theme=algolia"/> 
     <br>
-     <img height="240em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=uzairriaz&theme=algolia"/> 
+     <img height="240em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=umarzulfiqar&theme=algolia"/> 
 </a>
 </p>
-
-<br>
 
 
 ---
