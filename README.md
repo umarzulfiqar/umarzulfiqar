@@ -53,7 +53,6 @@
     <br>
   <img height="240em" width="420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umarzulfiqar&layout=compact&theme=algolia"/> 
     <br>
-     <img height="240em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=umarzulfiqar&theme=algolia"/> 
 </a>
 </p>
 
