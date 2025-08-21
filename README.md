@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ebd7c3.gif" width="100%" alt="Coding Dev Environment Banner"/>
 </p>
 <p align="center">
-<h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="hello" width="30px">, I'm Umar Zulfiqar. </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="hello" width="30px">, I'm Umar Zulfiqar. </h1>
 </p>
 <p align="center">
   <b>Backend Developer | DevOps Enthusiast | AI Explorer</b>  
